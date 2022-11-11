@@ -1,0 +1,15 @@
+name = "ParametricGeometry"
+uuid = "7bd43897-241f-41b2-aef6-b1ce72bda500"
+authors = ["Wonseok Shin <wsshin97@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
+
+[compat]
+julia = "1.7"
